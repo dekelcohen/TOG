@@ -24,7 +24,7 @@ Make sure the following dependencies are installed in their respective environme
 conda env create -f cgn_environment.yml
 ```
 
-### mani_env2 (for robot control)
+### mani3_env (for robot control)
 ```bash
 conda env create -f mani3_environment.yml
 ```
