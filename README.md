@@ -26,7 +26,7 @@ conda env create -f cgn_environment.yml
 
 ### mani_env2 (for robot control)
 ```bash
-conda env create -f mani_environment.yml
+conda env create -f mani3_environment.yml
 ```
 ---
 
