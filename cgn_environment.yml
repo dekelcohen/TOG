@@ -118,7 +118,7 @@ dependencies:
   - packaging=24.1=pyhd8ed1ab_0
   - pcre=8.45=h9c3ff4c_0
   - pcre2=10.43=hcad00b1_0
-  - pip=24.2=pyh8b19718_1
+  - pip
   - pixman=0.43.2=h59595ed_0
   - ply=3.11=pyhd8ed1ab_2
   - pthread-stubs=0.4=hb9d3cd8_1002
@@ -189,7 +189,7 @@ dependencies:
       - gast==0.4.0
       - google-auth==2.35.0
       - google-auth-oauthlib==0.4.6
-      - google-genai==1.2.0
+      - google-genai
       - google-pasta==0.2.0
       - grpcio==1.34.1
       - gym==0.26.2
@@ -215,8 +215,8 @@ dependencies:
       - pyasn1==0.6.1
       - pyasn1-modules==0.4.1
       - pyaudio==0.2.14
-      - pydantic==2.10.6
-      - pydantic-core==2.27.2
+      - pydantic
+      - pydantic-core
       - pyface==8.0.0
       - pyglet==1.5.29
       - pygments==2.18.0
@@ -234,12 +234,12 @@ dependencies:
       - scikit-learn==1.5.2
       - scipy==1.9.2
       - six==1.15.0
-      - speechrecognition==3.14.1
+      - speechrecognition
       - tensorboard==2.11.2
       - tensorboard-data-server==0.6.1
       - tensorboard-plugin-wit==1.8.1
       - tensorflow-estimator==2.5.0
-      - tensorflow-gpu==2.5.0
+      - tensorflow-gpu
       - termcolor==1.1.0
       - threadpoolctl==3.5.0
       - traits==6.4.3
