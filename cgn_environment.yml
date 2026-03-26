@@ -239,7 +239,7 @@ dependencies:
       - tensorboard-data-server==0.6.1
       - tensorboard-plugin-wit==1.8.1
       - tensorflow-estimator==2.5.0
-      - tensorflow-gpu
+      - tensorflow
       - termcolor==1.1.0
       - threadpoolctl==3.5.0
       - traits==6.4.3
